@@ -1,0 +1,14 @@
+/**
+ * Author: Andrea Gallidabino
+ * Date: 3 October 2022 
+*/
+
+.hidden {
+  display: none;
+}
+
+#text-textarea {	
+  font-size: 10px;
+  line-height: 5px;
+	letter-spacing: -1px;
+}
